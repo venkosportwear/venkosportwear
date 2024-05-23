@@ -17,7 +17,7 @@
   width: 570px;
   min-height: 349px;
   height: auto;
-  margin: 49px 0 0 auto;
+  margin: 49px 0 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -45,10 +45,6 @@
   height: 8px;
   transform-origin: right center;
   margin: 26px auto 0 0;
-}
-
-.u-section-1 .u-text-3 {
-  margin: 30px 0 60px auto;
 }
 
 @media (max-width: 1199px) {
